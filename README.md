@@ -81,7 +81,7 @@ GROQ_MODEL=openai/gpt-oss-20b
 uv run streamlit run app.py
 ```
 
-The app opens at http://localhost:8501.
+Once the app is running, open http://localhost:8501 in your browser.
 
 1. Type or paste a text in the input box.
 2. Click **Analyze**.
